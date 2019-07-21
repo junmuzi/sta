@@ -1,0 +1,55 @@
+[INIT] Loaded annotations from validation subset.
+	Number of ground truth instances: 1530
+	Number of predictions: 15290
+[RESULTS] Performance on HMDB51 untrimmed video classification task.
+smile Accuracy@1: 0.43333333333333335
+push Accuracy@1: 0.9666666666666667
+sword_exercise Accuracy@1: 0.2
+handstand Accuracy@1: 0.9
+golf Accuracy@1: 0.9666666666666667
+ride_horse Accuracy@1: 0.9333333333333333
+pick Accuracy@1: 0.4666666666666667
+kick Accuracy@1: 0.7
+hit Accuracy@1: 0.8666666666666667
+punch Accuracy@1: 0.8
+clap Accuracy@1: 0.9333333333333333
+somersault Accuracy@1: 0.8333333333333334
+turn Accuracy@1: 0.4666666666666667
+fall_floor Accuracy@1: 0.5333333333333333
+eat Accuracy@1: 0.8333333333333334
+shoot_gun Accuracy@1: 0.7333333333333333
+sit Accuracy@1: 0.4
+draw_sword Accuracy@1: 0.5333333333333333
+hug Accuracy@1: 0.9333333333333333
+talk Accuracy@1: 0.8
+brush_hair Accuracy@1: 0.9
+ride_bike Accuracy@1: 1.0
+cartwheel Accuracy@1: 0.6333333333333333
+laugh Accuracy@1: 0.8333333333333334
+chew Accuracy@1: 0.9
+catch Accuracy@1: 0.9
+walk Accuracy@1: 0.6206896551724138
+climb Accuracy@1: 0.9333333333333333
+fencing Accuracy@1: 0.8
+stand Accuracy@1: 0.3
+shake_hands Accuracy@1: 0.9
+climb_stairs Accuracy@1: 0.8333333333333334
+drink Accuracy@1: 0.7666666666666667
+dive Accuracy@1: 0.9
+sword Accuracy@1: 0.6333333333333333
+pushup Accuracy@1: 0.9333333333333333
+run Accuracy@1: 0.5666666666666667
+jump Accuracy@1: 0.4666666666666667
+shoot_bow Accuracy@1: 0.9666666666666667
+kick_ball Accuracy@1: 0.8333333333333334
+flic_flac Accuracy@1: 0.9666666666666667
+wave Accuracy@1: 0.2
+throw Accuracy@1: 0.2
+kiss Accuracy@1: 0.7666666666666667
+pullup Accuracy@1: 1.0
+pour Accuracy@1: 0.9666666666666667
+dribble Accuracy@1: 0.8333333333333334
+situp Accuracy@1: 0.9333333333333333
+shoot_ball Accuracy@1: 0.9666666666666667
+smoke Accuracy@1: 0.9
+swing_baseball Accuracy@1: 0.6333333333333333
